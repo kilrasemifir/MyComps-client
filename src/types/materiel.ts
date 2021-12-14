@@ -1,0 +1,1 @@
+export type MaterialType = "or"|"argent"|"bronze"|"diamant"
